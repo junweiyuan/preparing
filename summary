@@ -1,0 +1,3 @@
+我被问了hangman game的设计，设计成一个网页游戏。
+
+System design要回答出这个系统的架构（画图解释web server，app server，DB server之间怎么联系），client和server之间用什么通信协议，根据系统的要求大致设计一下通信API，数据怎么存，如何设计数据库的table，对于经常访问的内容如何cache，如何handle大量用户访问，如何防止single point of failure，如何防止被DoS攻击，如何实现用户认证，如何实现push notification（对于Facebook Messager）等等。这些问题我都被问过，基本上就是要对一个系统的细节比较了解，所有细节都给面试官解释清楚，就肯定没问题了。
